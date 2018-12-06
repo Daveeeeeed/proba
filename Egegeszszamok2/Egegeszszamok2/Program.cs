@@ -11,6 +11,7 @@ namespace Egegeszszamok2
         static void Main(string[] args)
         {
             int a;
+            int c;
             int b;
             int z;
             
