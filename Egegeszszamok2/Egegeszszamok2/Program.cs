@@ -10,9 +10,9 @@ namespace Egegeszszamok2
     {
         static void Main(string[] args)
         {
-            int a;
-            int b;
-            int z;
+            int a=0;
+            int b=1;
+            
             
         }
     }
